@@ -1,0 +1,62 @@
+# ninja log v5
+25	2965	7304995919408404	build.ninja	d0bd395baebb0179
+5	112	7305023814335283	Lab_14_autogen/timestamp	4c6fcf20772c6501
+5	112	7305023814335283	Lab_14_autogen/mocs_compilation.cpp	4c6fcf20772c6501
+249	1339	7304991802102619	CMakeFiles/Lab_14.dir/Observer.cpp.obj	2b4c55ef3821004c
+150	1987	7305023833080165	CMakeFiles/Lab_14.dir/tests/Tests.cpp.obj	1ff01b6c57819242
+135	1311	7305023826281043	CMakeFiles/Lab_14.dir/repository/FileRepositorySubjects.cpp.obj	2b2995f2860621fa
+192	1207	7305023825232456	CMakeFiles/Lab_14.dir/Undo/Undo.cpp.obj	bf8c04844f07d2d3
+117	237	7305023815080428	CMakeFiles/Lab_14.dir/Lab_14_autogen/mocs_compilation.cpp.obj	34268daa7f811f18
+173	967	7305023822844306	CMakeFiles/Lab_14.dir/validator/ValidatorSubject.cpp.obj	c8dc6f75c8fe784b
+165	1429	7305023827483894	CMakeFiles/Lab_14.dir/repository/SubjectsRepo.cpp.obj	32603f894718d30
+128	1159	7305023824765742	CMakeFiles/Lab_14.dir/domain/Subject.cpp.obj	42916f35091ee92e
+142	1638	7305023829584797	CMakeFiles/Lab_14.dir/ContractRepository/ContractRepo.cpp.obj	d6fcd364db790ea2
+182	1800	7305023831194135	CMakeFiles/Lab_14.dir/ui/SubjectsUi.cpp.obj	ff820475979625d8
+156	2077	7305023833952420	CMakeFiles/Lab_14.dir/service/SubjectsService.cpp.obj	5ccb31ef2432b52b
+237	2715	7304991815903960	CMakeFiles/Lab_14.dir/MyListModel.cpp.obj	dec704ffdddb4cf4
+123	3126	7305023844479252	CMakeFiles/Lab_14.dir/main.cpp.obj	b0a5c234048c2d73
+212	4076	7304991829464056	CMakeFiles/Lab_14.dir/APPGUI.cpp.obj	60260e52b9dd1590
+3672	4570	7305023855917369	Lab_14.exe	d5f48099b4a3569
+5	112	7305023814335283	C:/Users/Deea/Desktop/Uni/`By Year/First year/Semester 2/OOP/labs/Lab_14/cmake-build-debug/Lab_14_autogen/timestamp	4c6fcf20772c6501
+5	112	7305023814335283	C:/Users/Deea/Desktop/Uni/`By Year/First year/Semester 2/OOP/labs/Lab_14/cmake-build-debug/Lab_14_autogen/mocs_compilation.cpp	4c6fcf20772c6501
+213	1183	7305023824956408	CMakeFiles/Lab_14.dir/util/observerPattern/Observer.cpp.obj	6cda9f24538140f0
+202	2250	7305023835718433	CMakeFiles/Lab_14.dir/util/models/MyListModel.cpp.obj	e67242791f7d4f4d
+224	3672	7305023849905337	CMakeFiles/Lab_14.dir/GUI/APPGUI.cpp.obj	affc1f2a9d49708
+6	119	7305024260078722	Lab_14_autogen/timestamp	4c6fcf20772c6501
+6	119	7305024260078722	Lab_14_autogen/mocs_compilation.cpp	4c6fcf20772c6501
+6	119	7305024260078722	C:/Users/Deea/Desktop/Uni/`By Year/First year/Semester 2/OOP/labs/Lab_14/cmake-build-debug/Lab_14_autogen/timestamp	4c6fcf20772c6501
+6	119	7305024260078722	C:/Users/Deea/Desktop/Uni/`By Year/First year/Semester 2/OOP/labs/Lab_14/cmake-build-debug/Lab_14_autogen/mocs_compilation.cpp	4c6fcf20772c6501
+129	240	7305024260987767	CMakeFiles/Lab_14.dir/Lab_14_autogen/mocs_compilation.cpp.obj	34268daa7f811f18
+199	1031	7305024269152570	CMakeFiles/Lab_14.dir/validator/ValidatorSubject.cpp.obj	c8dc6f75c8fe784b
+219	1144	7305024270256443	CMakeFiles/Lab_14.dir/util/observerPattern/Observer.cpp.obj	6cda9f24538140f0
+136	1213	7305024270959081	CMakeFiles/Lab_14.dir/domain/Subject.cpp.obj	42916f35091ee92e
+189	1233	7305024271179690	CMakeFiles/Lab_14.dir/Undo/Undo.cpp.obj	bf8c04844f07d2d3
+148	1320	7305024272033012	CMakeFiles/Lab_14.dir/repository/FileRepositorySubjects.cpp.obj	2b2995f2860621fa
+156	1396	7305024272789511	CMakeFiles/Lab_14.dir/repository/SubjectsRepo.cpp.obj	32603f894718d30
+142	1624	7305024275089592	CMakeFiles/Lab_14.dir/ContractRepository/ContractRepo.cpp.obj	d6fcd364db790ea2
+180	1790	7305024276769055	CMakeFiles/Lab_14.dir/ui/SubjectsUi.cpp.obj	ff820475979625d8
+172	2042	7305024279268269	CMakeFiles/Lab_14.dir/tests/Tests.cpp.obj	1ff01b6c57819242
+164	2139	7305024280253112	CMakeFiles/Lab_14.dir/service/SubjectsService.cpp.obj	5ccb31ef2432b52b
+209	2396	7305024282845422	CMakeFiles/Lab_14.dir/util/models/MyListModel.cpp.obj	e67242791f7d4f4d
+124	3230	7305024291177041	CMakeFiles/Lab_14.dir/main.cpp.obj	b0a5c234048c2d73
+228	3747	7305024296328624	CMakeFiles/Lab_14.dir/GUI/APPGUI.cpp.obj	affc1f2a9d49708
+3748	4661	7305024302512359	Lab_14.exe	d5f48099b4a3569
+6	114	7305024675866498	Lab_14_autogen/timestamp	4c6fcf20772c6501
+6	114	7305024675866498	Lab_14_autogen/mocs_compilation.cpp	4c6fcf20772c6501
+6	114	7305024675866498	C:/Users/Deea/Desktop/Uni/`By Year/First year/Semester 2/OOP/labs/Lab_14/cmake-build-debug/Lab_14_autogen/timestamp	4c6fcf20772c6501
+6	114	7305024675866498	C:/Users/Deea/Desktop/Uni/`By Year/First year/Semester 2/OOP/labs/Lab_14/cmake-build-debug/Lab_14_autogen/mocs_compilation.cpp	4c6fcf20772c6501
+120	247	7305024676718716	CMakeFiles/Lab_14.dir/Lab_14_autogen/mocs_compilation.cpp.obj	34268daa7f811f18
+192	1064	7305024685326548	CMakeFiles/Lab_14.dir/validator/ValidatorSubject.cpp.obj	c8dc6f75c8fe784b
+135	1241	7305024687110196	CMakeFiles/Lab_14.dir/domain/Subject.cpp.obj	42916f35091ee92e
+182	1246	7305024687150412	CMakeFiles/Lab_14.dir/Undo/Undo.cpp.obj	bf8c04844f07d2d3
+224	1258	7305024687265677	CMakeFiles/Lab_14.dir/util/observerPattern/Observer.cpp.obj	6cda9f24538140f0
+142	1373	7305024688429116	CMakeFiles/Lab_14.dir/repository/FileRepositorySubjects.cpp.obj	2b2995f2860621fa
+164	1395	7305024688648001	CMakeFiles/Lab_14.dir/repository/SubjectsRepo.cpp.obj	32603f894718d30
+148	1668	7305024691379753	CMakeFiles/Lab_14.dir/ContractRepository/ContractRepo.cpp.obj	d6fcd364db790ea2
+202	1814	7305024692855399	CMakeFiles/Lab_14.dir/ui/SubjectsUi.cpp.obj	ff820475979625d8
+156	2063	7305024695357981	CMakeFiles/Lab_14.dir/tests/Tests.cpp.obj	1ff01b6c57819242
+173	2201	7305024696722293	CMakeFiles/Lab_14.dir/service/SubjectsService.cpp.obj	5ccb31ef2432b52b
+213	2379	7305024698527453	CMakeFiles/Lab_14.dir/util/models/MyListModel.cpp.obj	e67242791f7d4f4d
+127	3294	7305024707666175	CMakeFiles/Lab_14.dir/main.cpp.obj	b0a5c234048c2d73
+236	3791	7305024712608378	CMakeFiles/Lab_14.dir/GUI/APPGUI.cpp.obj	affc1f2a9d49708
+3791	4700	7305024718661048	Lab_14.exe	d5f48099b4a3569

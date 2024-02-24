@@ -1,0 +1,5 @@
+OOP,6,Mandatory,Gisela Judie
+Databases,5,Mandatory,Quin Agnes
+C- Programming,2,Optional,Quin Agnes
+Fundamentals of Programming,4,Mandatory,Rónán Gabrielle
+History of Computer Science,2,Optional,Rónán Gabrielle
