@@ -24,17 +24,17 @@ Below are screenshots from the application, accompanied by further details about
 
 Let's take a look at the User Interface:
 
-![Main UI](image.png)
+![Main UI](Images/image.png)
 Here, the user can easily sort the subject list and apply filters with utmost convenience.
-![Filter Demonstration](image-1.png)
+![Filter Demonstration](Images/image-1.png)
 
 In addition to creating subjects, users can also modify or delete selected subjects. Notably, the application supports undo functionality to rectify inadvertent actions.
 
 For users intent on crafting a study contract, the "Open Contract" button serves as their gateway.
-![Contract View](image-2.png)
+![Contract View](Images/image-2.png)
 Upon entering the contract creation view, users are presented with an interactive form showcasing the number of subjects selected. This feature serves as an excellent learning opportunity for observing the Observer pattern in action.
-![Subject Display Example](image-3.png)
+![Subject Display Example](Images/image-3.png)
 Furthermore, users can opt to export the contract to an HTML table by specifying a filename and clicking "Export to Contract."
-![Filename Entry](image-4.png)
-![HTML Contract File](image-5.png)
+![Filename Entry](Images/image-4.png)
+![HTML Contract File](Images/image-5.png)
 Feel free to explore the application further!
